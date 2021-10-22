@@ -4,12 +4,17 @@
 
 [Imagen]
 
+__Porciones:__ *[Cantidad]*
+
 ### Ingredientes:
 - [ ] [Listado Ingredientes]
 
 ### Preparación:
 
 1. [Pasos Preparación]
+
+### Notas:
+
 
 #### Buen Provecho!!
 
